@@ -72,3 +72,4 @@ BUILD_AND_PUBLISH:
         daemon_off: false
         dockerfile: ./Dockerfile
         context: ./
+#
